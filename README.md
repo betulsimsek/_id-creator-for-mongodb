@@ -1,0 +1,2 @@
+# _id-creator-for-mongodb
+This function helps when you save your json datas to a new mongodb collection with _id start 1. If you have already a collection has _id numbers, it helps to increase add the _id to your new json data from last _id of your existing collection + 1.
